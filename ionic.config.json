@@ -1,0 +1,8 @@
+{
+  "name": "HelloWorldIonic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "799dfbc8"
+}
